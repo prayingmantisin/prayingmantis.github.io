@@ -322,20 +322,20 @@ http://www.tooplate.com/view/2106-soft-landing
     -webkit-align-items: center;
     -ms-flex-align: center;
     align-items: center;
-    min-height: 75vh;
+    min-height: 100vh;
     position: relative;
-    padding-top: 0em;
+    padding-top: 12em;
     text-align: center;
   }
 
   #home h1 {
     color: #ffffff;
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 40px;
   }
 
   .home-info {
-    margin-top: 1em;
+    margin-top: 7em;
   }
 
   .home-info h3 {
